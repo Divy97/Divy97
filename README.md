@@ -1,4 +1,4 @@
-### Hi there 👋
+Hello Everyone, Divy here from India 👋
 
 <!--
 **Divy97/Divy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
