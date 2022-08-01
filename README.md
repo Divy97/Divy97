@@ -1,4 +1,12 @@
-Hello Everyone, Divy here from India 👋
+Hello Everyone, Divy here from India 👋💻
+I'm a forntend developer, I enjoy working with include ReactJS, JavaScript and APIs. ⭐
+
+Find Me 🌍
+Connect with me on [Twitter](https://twitter.com/ParekhDivy) and [Instagram](https://www.instagram.com/divyparekh1/) 🤝 
+
+
+
+
 
 <!--
 **Divy97/Divy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
