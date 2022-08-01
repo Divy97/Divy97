@@ -1,7 +1,5 @@
 Hello Everyone, Divy here from India 👋💻
 I'm a forntend developer, I enjoy working with include ReactJS, JavaScript and APIs. ⭐
-
-[heyyyy](https://en.bloggif.com/tmp/64f0c61e1c4d7f82ff6830547ea013d6/text.gif?1659348292)
 Find Me 🌍
 Connect with me on [Twitter](https://twitter.com/ParekhDivy) and [Instagram](https://www.instagram.com/divyparekh1/) 🤝 
 
