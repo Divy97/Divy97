@@ -5,7 +5,17 @@ Find Me 🌍
 Connect with me on [Twitter](https://twitter.com/ParekhDivy) and [Instagram](https://www.instagram.com/divyparekh1/) 🤝 
 
 
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Divy97&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Divy97&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Divy97&show_icons=true" />
+</picture>
 
 
 
