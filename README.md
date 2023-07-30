@@ -5,19 +5,14 @@ Find Me 🌍
 Connect with me on [Twitter](https://twitter.com/ParekhDivy) and [Instagram](https://www.instagram.com/divyparekh1/) 🤝 
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Divy97&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Divy97&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Divy97&show_icons=true" />
-</picture>
 
 
+<a href="https://github.com/Divy97/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Divy97" />
+</a>
+<a href="https://github.com/Divy97/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <!--
 **Divy97/Divy97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
